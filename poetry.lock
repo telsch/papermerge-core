@@ -637,15 +637,15 @@ pytz = "*"
 
 [[package]]
 name = "djangorestframework-jsonapi"
-version = "5.0.0"
+version = "6.0.0"
 description = "A Django REST framework API adapter for the JSON:API spec."
 category = "main"
 optional = false
 python-versions = ">=3.7"
 
 [package.dependencies]
-django = ">=2.2,<4.1"
-djangorestframework = ">=3.12,<3.14"
+django = ">=3.2,<4.2"
+djangorestframework = ">=3.13,<3.15"
 inflection = ">=0.5.0"
 
 [package.extras]
@@ -1827,7 +1827,7 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8, <=3.10.6"
-content-hash = "ea5202b05528eedfe67bbe86310aecde991b72e30d20b8320b9ee06c27dbdffd"
+content-hash = "bbd8ab5afea30bde4f837bd48d8e2570ea1efea5db2810d4eb2720945f153d8e"
 
 [metadata.files]
 aioredis = [
@@ -2124,8 +2124,8 @@ djangorestframework = [
     {file = "djangorestframework-3.13.1.tar.gz", hash = "sha256:0c33407ce23acc68eca2a6e46424b008c9c02eceb8cf18581921d0092bc1f2ee"},
 ]
 djangorestframework-jsonapi = [
-    {file = "djangorestframework-jsonapi-5.0.0.tar.gz", hash = "sha256:090c568dc99380ead71cc378020b4cd191db2ffce9ab3e9339df80d5d82c8648"},
-    {file = "djangorestframework_jsonapi-5.0.0-py2.py3-none-any.whl", hash = "sha256:f25b0d24a990690e578668b7a7a191a75162f1d9561abd773d12de331cf16673"},
+    {file = "djangorestframework-jsonapi-6.0.0.tar.gz", hash = "sha256:f2465b1b1cd3f372abacc8d99f82835643373f4f3f12965276ad1ccc2d110415"},
+    {file = "djangorestframework_jsonapi-6.0.0-py2.py3-none-any.whl", hash = "sha256:a93b3678bd5e2f070946ca32d7d0bb3734cb5966a80f8a44fa721fcf15cf89ce"},
 ]
 drf-spectacular = [
     {file = "drf-spectacular-0.24.2.tar.gz", hash = "sha256:be32417594080a52f996afd83fd47ea9c2b83cbf13f6d3fbf3de809a0dfa7ead"},
