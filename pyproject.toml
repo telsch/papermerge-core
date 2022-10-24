@@ -86,7 +86,7 @@ pycodestyle = "^2.8"
 django-extensions = "^3.1"
 ipython = "^8.0.1"
 pre-commit = "^2.17.0"
-model-bakery = "^1.5.0"
+model-bakery = "^1.9.0"
 taskipy = "^1.10.2"
 "pdfminer.six" = "^20220524"
 
