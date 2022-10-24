@@ -1006,7 +1006,7 @@ traitlets = "*"
 
 [[package]]
 name = "model-bakery"
-version = "1.7.0"
+version = "1.9.0"
 description = "Smart object creation facility for Django."
 category = "dev"
 optional = false
@@ -1827,7 +1827,7 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8, <=3.10.6"
-content-hash = "b2cf5e998091e837c3399887602fa368b8332f75e05a580a9f0a5d7ecd6ab3c4"
+content-hash = "86674c97c3d162461cbf0d2ea0cbd99303b0938537f8af6a62e67db22521adf4"
 
 [metadata.files]
 aioredis = [
@@ -2455,8 +2455,8 @@ matplotlib-inline = [
     {file = "matplotlib_inline-0.1.6-py3-none-any.whl", hash = "sha256:f1f41aab5328aa5aaea9b16d083b128102f8712542f819fe7e6a420ff581b311"},
 ]
 model-bakery = [
-    {file = "model_bakery-1.7.0-py2.py3-none-any.whl", hash = "sha256:9e7e7436174a69892972eb6717a877ac346d70a8a2ada4fd2b583bb3dca2ad7e"},
-    {file = "model_bakery-1.7.0.tar.gz", hash = "sha256:70bc7da3864c28bacfbaaa3f3b0b52020dedc8fec5229a195fc39a4dfa5ec20d"},
+    {file = "model_bakery-1.9.0-py2.py3-none-any.whl", hash = "sha256:93ac818df49377d4f14316105028fa95231474bf268d6017e420e5d4b74d54fd"},
+    {file = "model_bakery-1.9.0.tar.gz", hash = "sha256:99571801a26b85b8dcba7f0ad39750aeb2f2477fe770d2291823e16788785000"},
 ]
 msgpack = [
     {file = "msgpack-1.0.4-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:4ab251d229d10498e9a2f3b1e68ef64cb393394ec477e3370c457f9430ce9250"},
