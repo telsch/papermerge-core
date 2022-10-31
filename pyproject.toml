@@ -41,7 +41,7 @@ Source = "https://github.com/papermerge/papermerge-core"
 [tool.poetry.dependencies]
 python = ">=3.8, <=3.10.6"
 django = "^3.2"
-djangorestframework = "^3.13.1"
+djangorestframework = "^3.14.0"
 django-cors-headers = "^3.9.0"
 djangorestframework-jsonapi = "^6.0.0"
 django_filter = "^21.1"
