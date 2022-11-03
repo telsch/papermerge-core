@@ -71,7 +71,7 @@ daphne = "^3.0.2"
 django-rest-knox = "^4.2.0"
 drf-spectacular = "^0.24.2"
 drf-spectacular-sidecar = "^2022.3.21"
-elasticsearch = ">=7,<8"
+elasticsearch = ">=7,<9"
 django-haystack = "^3.2.1"
 # This is NOT a typo! It is indeed yapian-haystack instead of xapian-haystack.
 # For details see https://github.com/ciur/papermerge/issues/486
